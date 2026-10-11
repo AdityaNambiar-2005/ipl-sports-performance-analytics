@@ -45,3 +45,24 @@ To use data visualization and analysis to identify patterns in IPL team performa
 ---
 
 **Created by:** Aditya Nambiar
+## Dashboard Previews
+
+### IPL Overview & Team Performance
+
+![IPL Overview & Team Performance](%20Screenshot%202026-09-08%20215858.png)
+
+### IPL Dashboard Analysis
+
+![IPL Dashboard Analysis](%20Screenshot%202026-10-09%20230528.png)
+
+### IPL Toss & Match Analysis
+
+![IPL Toss & Match Analysis](%20Screenshot%202026-10-09%20230807.png)
+
+## Project Presentation
+
+The PowerPoint presentation is available in this repository as `course_5_capstone_ppt.pptx`.
+
+## Power BI Dashboard File
+
+Download `course_5_capstone_project.pbix` from the repository and open it using Microsoft Power BI Desktop.
